@@ -27,7 +27,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <h3 align="center">API en .NET con Swagger y SQLDependency para Notificaciones en Tiempo Real en Signal R
 </h3>
 <div align="center">
-<a href="https://github.com/gean1987/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/gean1987/Android-Expert" target="_blank"><img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/gean1987/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -45,7 +45,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
                <br>
 <h3 align="center">Aplicación para Subir Archivos a Google Drive con .NET Core</h3>
 <div align="center">                                       
-<a href="https://github.com/gean1987/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/gean1987/SimpleAndroidMVVM" target="_blank"><img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/gean1987/SimpleAndroidMVVM" target="_blank">
@@ -64,7 +64,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <td width="50%">
 <h3 align="center">Aplicación CRUD de E-commerce con APIs y Firebase en Kotlin</h3>
 <div align="center">
-<a href="https://github.com/gean1987/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/gean1987/Android-Expert-Intermedio" target="_blank"><img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/gean1987/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -80,7 +80,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <h3 align="center">Sistema de Mantenimiento de Alumnos con API en Tiempo Real
 </h3>
 <div align="center">
-<a href="https://github.com/gean1987/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/gean1987/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://www.hostinger.es/tutoriales/wp-content/uploads/sites/7/2018/07/aprender-programar-gratis.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/gean1987/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
