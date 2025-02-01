@@ -6,7 +6,16 @@
 
 ## Sobre mi
 
-- 📲 Web developer
+Soy un programador con 2 años de experiencia en desarrollo de software, especializado en backend con C# y tecnologías asociadas. Me apasiona crear soluciones eficientes y escalables, optimizando el rendimiento y la arquitectura de aplicaciones.
+
+🔹 Tecnologías que manejo:
+✔ Backend: C# (.NET, ADO.NET, SignalR), Java (Spring Boot), PHP
+✔ Frontend: JavaScript, jQuery, Angular
+✔ Bases de Datos: SQL Server, MySQL
+✔ Comunicación en tiempo real: SignalR
+✔ Desarrollo Web: APIs REST, integración con servicios externos
+
+Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mundo del desarrollo de software. 🚀
 
 <br>
 
