@@ -32,9 +32,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <a href="https://github.com/gean1987/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
 <p>Esta API, desarrollada en .NET, está integrada con Swagger y utiliza SQLDependency para detectar cambios en la tabla Alumnos de una base de datos SQL Server. Cada vez que se produce una actualización en la tabla, la API envía notificaciones en tiempo real a los clientes conectados</p>
 </div>
@@ -53,9 +51,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <a href="https://github.com/gean1987/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
+
 </p>
 </p>Esta aplicación, desarrollada en .NET Core en Visual Studio 2022, permite la carga de archivos a Google Drive utilizando su API oficial. La integración se realiza mediante OAuth 2.0, asegurando autenticación segura y permisos adecuados para acceder y gestionar archivos en la cuenta del usuario.</p>
 </div>                                                             
@@ -73,9 +69,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <a href="https://github.com/gean1987/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
 <p>Esta aplicación gestiona el mantenimiento de alumnos, asegurando una asignación eficiente de salas y cursos mediante el consumo de una API en tiempo real. Su objetivo principal es evitar conflictos de horarios y garantizar que los alumnos sean asignados correctamente sin superposiciones.</p>
 </div>
@@ -91,9 +85,7 @@ Siempre en busca de nuevos retos y oportunidades para seguir creciendo en el mun
 <a href="https://github.com/gean1987/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
+
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
 </div>
